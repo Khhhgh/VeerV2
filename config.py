@@ -1,0 +1,8 @@
+
+from pyrogram import enums
+API_ID = 25996320
+API_HASH = '772cefc3a92ed382b6c24adbd0d3ea26'
+
+TOKEN = '6575283809:AAH-nRecS6cP4daFZ0rNgelt6LvxBsGvQbQ'
+BOT_ID = '6575283809'
+SUDO = 1310488710
